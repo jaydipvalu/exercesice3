@@ -3,9 +3,4 @@ For more complex cases, there are various methods for resolving them. There are 
 To fix conflicts locally, you can use the following method:
 
 Open the terminal and checkout your feature branch, for example, my-feature-branch:
-
-<<<<<<< HEAD
-Open the conflicting file2   in  a code editor of your name.
-=======
-Open the conflicting file2   in  a code editor of your preference.
->>>>>>> 9e2699d (update code)
+Open the  file2   in  a code editor of your name.
