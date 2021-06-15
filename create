@@ -1,0 +1,5 @@
+For more complex cases, there are various methods for resolving them. There are also Git GUI apps that can help by visualizing the differences.
+
+To fix conflicts locally, you can use the following method:
+
+Open the terminal and checkout your feature branch, for example, my-feature-branch:
