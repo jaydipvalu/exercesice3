@@ -3,3 +3,8 @@ For more complex cases, there are various methods for resolving them. There are 
 To fix conflicts locally, you can use the following method:
 
 Open the terminal and checkout your feature branch, for example, my-feature-branch:
+<<<<<<< HEAD
+=======
+
+Open the conflicting file in a code editor of your preference.
+>>>>>>> a3b6dd4 (same file differnet changes)
