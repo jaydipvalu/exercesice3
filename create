@@ -4,6 +4,7 @@ To fix conflicts locally, you can use the following method:
 
 Open the terminal and checkout your feature branch, for example, my-feature-branch:
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 Open the conflicting file in
 =======
@@ -13,3 +14,7 @@ Open the conflicting file in
 Open the conflicting file in a code editor of your preference.
 >>>>>>> a3b6dd4 (same file differnet changes)
 >>>>>>> 6b4da8b (fix merge conflicts)
+=======
+
+Open the conflicting file in  a code editor of your preference.
+>>>>>>> 22a349d6cb186ea62d1fc1913d0a0a2ef9f1b36c
