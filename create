@@ -3,9 +3,39 @@ For more complex cases, there are various methods for resolving them. There are 
 To fix conflicts locally, you can use the following method:
 
 Open the terminal and checkout your feature branch, for example, my-feature-branch:
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 970ad7e (more change create file)
 Open the  file2   in  a code editor of your pre.
 Resolve the conflict by doing the follow:
+<<<<<<< HEAD
 
 Merging and conflicts are a common part of the Git experience.
 Conflicts in other version control tools like SVN can be costly and time-consuming.
 Git makes merging super easy. Most of the time, Git will figure out how to automatically integrate new changes.
+=======
+=======
+Resolve the conflict by doing the following:
+=======
+<<<<<<< HEAD
+Open the  file2   in  a code editor of your name.
+=======
+Open the  file2   in  a code editor of your pre.
+>>>>>>> e84c455 (code change)
+>>>>>>> 128596d (code change)
+<<<<<<< HEAD
+>>>>>>> 5e797fd (fix conflicts)
+=======
+=======
+Open the  file2   in  a code editor of your pre.
+Resolve the conflict by doing the follow:
+>>>>>>> 6ce646a (create file code change)
+>>>>>>> e3f1306 (create file code change)
+=======
+
+Resolve the conflict by doing the following:
+>>>>>>> 4528930 (more change create file)
+>>>>>>> 970ad7e (more change create file)
