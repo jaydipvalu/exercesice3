@@ -4,13 +4,18 @@ To fix conflicts locally, you can use the following method:
 
 Open the terminal and checkout your feature branch, for example, my-feature-branch:
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
+=======
+Open the  file2   in  a code editor of your pre.
+>>>>>>> 342c5d8 (change a)
 <<<<<<< HEAD
 >>>>>>> 970ad7e (more change create file)
 Open the  file2   in  a code editor of your pre.
 Resolve the conflict by doing the follow:
+<<<<<<< HEAD
 <<<<<<< HEAD
 
 Merging and conflicts are a common part of the Git experience.
@@ -25,9 +30,11 @@ Open the  file2   in  a code editor of your name.
 =======
 Open the  file2   in  a code editor of your pre.
 >>>>>>> e84c455 (code change)
+=======
+>>>>>>> 342c5d8 (change a)
 >>>>>>> 128596d (code change)
-<<<<<<< HEAD
 >>>>>>> 5e797fd (fix conflicts)
+<<<<<<< HEAD
 =======
 =======
 Open the  file2   in  a code editor of your pre.
@@ -39,3 +46,5 @@ Resolve the conflict by doing the follow:
 Resolve the conflict by doing the following:
 >>>>>>> 4528930 (more change create file)
 >>>>>>> 970ad7e (more change create file)
+=======
+>>>>>>> 342c5d8 (change a)
