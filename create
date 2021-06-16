@@ -10,6 +10,7 @@ Open the terminal and checkout your feature branch, for example, my-feature-bran
 <<<<<<< HEAD
 =======
 Open the  file2   in  a code editor of your pre.
+<<<<<<< HEAD
 >>>>>>> 342c5d8 (change a)
 <<<<<<< HEAD
 >>>>>>> 970ad7e (more change create file)
@@ -48,3 +49,10 @@ Resolve the conflict by doing the following:
 >>>>>>> 970ad7e (more change create file)
 =======
 >>>>>>> 342c5d8 (change a)
+=======
+
+
+Merging and conflicts are a common part of the Git experience.
+Conflicts in other version control tools like SVN can be costly and time-consuming.
+Git makes merging super easy. Most of the time, Git will figure out how to automatically integrate old changes.
+>>>>>>> 8f3cf58 (change c)
