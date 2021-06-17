@@ -1,0 +1,2 @@
+With the "cherry-pick" command, Git allows you to integrate selected,
+individual commits from any branch into your current HEAD branch.
