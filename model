@@ -3,6 +3,7 @@ recording a new commit for each.
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 This requires your working tree to be clean (no modifications from the HEAD commit).
 =======
 This requires your working tree to be clean (no modifications from the HEAD enter).
@@ -13,6 +14,9 @@ This requires your working tree to be clean (no modifications from the HEAD ente
 Merge or Rebase, all commits from two branch are integrated.
 =======
 This requires your working tree to be clean (no modifications from the HEAD commit).
+=======
+This requires your working tree to be clean (no modifications from the HEAD commit).
+>>>>>>> d0618cb (code update)
 <<<<<<< HEAD
 Merge or Rebase, all commits from one branch are integrated.
 =======
@@ -20,4 +24,7 @@ Merge or Rebase, all commits from one branch are integrated.
 This requires your working tree to be clean (no modifications from the HEAD enter).
 >>>>>>> 75b70ca (model file upadate)
 >>>>>>> f99a250 (fix conflicts file)
+<<<<<<< HEAD
+>>>>>>> d0618cb (code update)
+=======
 >>>>>>> d0618cb (code update)
